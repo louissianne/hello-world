@@ -1,2 +1,2 @@
 # hello-world
-just another respiratory
+I am Louissianne, I want to learn coding in python.
